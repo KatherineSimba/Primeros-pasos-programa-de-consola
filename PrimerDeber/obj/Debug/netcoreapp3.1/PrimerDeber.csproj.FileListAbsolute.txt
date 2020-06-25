@@ -1,0 +1,13 @@
+C:\Users\Dell\Pictures\Programacion\PrimerDeber\PrimerDeber\bin\Debug\netcoreapp3.1\PrimerDeber.exe
+C:\Users\Dell\Pictures\Programacion\PrimerDeber\PrimerDeber\bin\Debug\netcoreapp3.1\PrimerDeber.deps.json
+C:\Users\Dell\Pictures\Programacion\PrimerDeber\PrimerDeber\bin\Debug\netcoreapp3.1\PrimerDeber.runtimeconfig.json
+C:\Users\Dell\Pictures\Programacion\PrimerDeber\PrimerDeber\bin\Debug\netcoreapp3.1\PrimerDeber.runtimeconfig.dev.json
+C:\Users\Dell\Pictures\Programacion\PrimerDeber\PrimerDeber\bin\Debug\netcoreapp3.1\PrimerDeber.dll
+C:\Users\Dell\Pictures\Programacion\PrimerDeber\PrimerDeber\bin\Debug\netcoreapp3.1\PrimerDeber.pdb
+C:\Users\Dell\Pictures\Programacion\PrimerDeber\PrimerDeber\obj\Debug\netcoreapp3.1\PrimerDeber.csprojAssemblyReference.cache
+C:\Users\Dell\Pictures\Programacion\PrimerDeber\PrimerDeber\obj\Debug\netcoreapp3.1\PrimerDeber.AssemblyInfoInputs.cache
+C:\Users\Dell\Pictures\Programacion\PrimerDeber\PrimerDeber\obj\Debug\netcoreapp3.1\PrimerDeber.AssemblyInfo.cs
+C:\Users\Dell\Pictures\Programacion\PrimerDeber\PrimerDeber\obj\Debug\netcoreapp3.1\PrimerDeber.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Pictures\Programacion\PrimerDeber\PrimerDeber\obj\Debug\netcoreapp3.1\PrimerDeber.dll
+C:\Users\Dell\Pictures\Programacion\PrimerDeber\PrimerDeber\obj\Debug\netcoreapp3.1\PrimerDeber.pdb
+C:\Users\Dell\Pictures\Programacion\PrimerDeber\PrimerDeber\obj\Debug\netcoreapp3.1\PrimerDeber.genruntimeconfig.cache
